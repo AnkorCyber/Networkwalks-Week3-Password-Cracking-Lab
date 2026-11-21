@@ -1,4 +1,4 @@
-# NETWORKWALKS-IFEANYI-B084-WK3-PM1-PM2-PASSWORD-CRACKING
+# NETWORKWALKS-OLUWASEGUN-B084-WK3-PM1-PM2-PASSWORD-CRACKING
 
 **Networkwalks Cybersecurity Internship — Batch B084**
 
@@ -38,7 +38,7 @@ file**, with John's path configured.
 
 **4. Confirmed the result** by opening the PDF with the recovered password.
 
-![PDF opened using the cracked password](pdf1.png)
+![PDF opened using the cracked password](pdf2.png)
 
 ---
 
@@ -58,7 +58,7 @@ returned the hash starting with `$pdf$...`.
 **2. Pasted the hash into the Networkwalks Password Cracker** and ran a
 dictionary attack. The tool cracked the password: **`password1`**
 
-![Password Cracker result screen — password1](screenshots/PM2/Cracked.png)
+![Password Cracker result screen — password1](png)
 
 **3. Confirmed the result** by opening the PDF with the recovered password.
 
