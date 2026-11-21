@@ -53,16 +53,16 @@ install required).
 **1. Uploaded the locked PDF** to the **Networkwalks Hash Calculator** — it
 returned the hash starting with `$pdf$...`.
 
-![Hash extracted via the Networkwalks Hash Calculator](screenshots/PM2/Hash-Calculator.png)
+![Hash extracted via the Networkwalks Hash Calculator](hash1.png)
 
 **2. Pasted the hash into the Networkwalks Password Cracker** and ran a
 dictionary attack. The tool cracked the password: **`password1`**
 
-![Password Cracker result screen — password1](png)
+![Password Cracker result screen — password1](hashcalculator.png)
 
 **3. Confirmed the result** by opening the PDF with the recovered password.
 
-![PDF opened using the cracked password](screenshots/PM2/W3-PM2-File-Unlocked.png)
+![PDF opened using the cracked password](pdf4.png)
 
 ---
 ---
