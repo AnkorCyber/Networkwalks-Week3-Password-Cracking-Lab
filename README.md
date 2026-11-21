@@ -1,7 +1,11 @@
 # NETWORKWALKS-IFEANYI-B084-WK3-PM1-PM2-PASSWORD-CRACKING
 
 **Networkwalks Cybersecurity Internship — Batch B084**
-**Intern:**Omotoso Oluwasegun**
+
+
+**Intern**:**Omotoso Oluwasegun**
+
+
 **Week 3 — Project Modules 1 & 2 (Essentials)**
 
 This repo covers both required Week 3 modules: recovering the password of a
@@ -21,20 +25,20 @@ JTR John and JTR Johnny.
 extractor tool (`$pdf$...` format, compatible with `pdf2john`/`pdf2hashcat`),
 and saved it into `hash1.txt`.
 
-![Hash extracted from the locked PDF](screenshots/PM1/Hash-Extract.png)
+![Hash extracted from the locked PDF](extract.png)
 
 **2. Opened Johnny** (the JTR GUI) and loaded `hash1.txt` via **Open password
 file**, with John's path configured.
 
-![Johnny GUI set up with John's path configured](screenshots/PM1/JTR-PM1-Setup.png)
+![Johnny GUI set up with John's path configured](johnny.png)
 
 **3. Started the attack.** Johnny cracked the password: **`password1`**
 
-![Johnny showing the cracked password — good-luck, 100% / 1 cracked](screenshots/PM1/JTR-PM1.png)
+![Johnny showing the cracked password — good-luck, 100% / 1 cracked](password1.png)
 
 **4. Confirmed the result** by opening the PDF with the recovered password.
 
-![PDF opened using the cracked password](screenshots/PM1/W3-PM1-file-unlocked.png)
+![PDF opened using the cracked password](pdf1.png)
 
 ---
 
